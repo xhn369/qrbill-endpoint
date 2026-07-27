@@ -1,0 +1,7 @@
+{
+  "name": "qrbill-endpoint",
+  "type": "module",
+  "dependencies": {
+    "swissqrbill": "^4.0.0"
+  }
+}
